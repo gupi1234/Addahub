@@ -1,0 +1,20 @@
+.siderbar-friend {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  padding: 6px 10px;
+  border-radius: 10px;
+  transition: background 0.2s ease;
+  cursor: pointer;
+}
+.siderbar-friend:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+.sidebar-friendImg {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+  border: 2px solid #00ffd1;
+}

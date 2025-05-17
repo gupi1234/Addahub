@@ -1,0 +1,103 @@
+{
+  "ownProfileInfo": [
+    {
+      "id": 1,
+      "profilePicture": "/src/assets/person/profile.jpg",
+      "username": "Gupi Debnath",
+      "coverPicture": "/public/7.jpeg",
+      "description": "Believer in Krishna’s wisdom, living with devotion, trusting his path, embracing life with love.🦚🦚"
+    }
+  ],
+  "ownPosts": [
+    {
+      "id": 1,
+      "desc": "Feeling blessed today 🙏✨ Trusting Krishna’s path! 🦚",
+      "photo": "https://scontent.fccu19-1.fna.fbcdn.net/v/t39.30808-6/485080814_1762809637635924_6678898194341024745_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=DCCTGN__zbwQ7kNvwGOMS63&_nc_oc=AdmqCHe0lzg2OppCZTW3vri9Za1wlVVNeyqy749MVPxzKg25-RhgXaPmaaR5Ui-f6iQ&_nc_zt=23&_nc_ht=scontent.fccu19-1.fna&_nc_gid=SX4f1hdldZydeCKVDup8og&oh=00_AfFevTdwW2N1hhwWK6IpX011cfUcpX8-l3AHhIVPkmWsqQ&oe=6813BB68",
+      "date": "5 mins ago",
+      "userId": 1,
+      "like": 120,
+      "comment": 15
+    },
+    {
+      "id": 2,
+      "desc": "Evening vibes at Ganga Ghat 🛶 #Peace #NatureLover",
+      "photo": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?crop=entropy&cs=tinysrgb&fit=crop&w=800&h=600",
+      "date": "1 hour ago",
+      "userId": 1,
+      "like": 90,
+      "comment": 8
+    },
+    {
+      "id": 3,
+      "desc": "Hard work and blessings together = Success 💪🚀",
+      "photo": "/src/assets/person/profile.jpg",
+      "date": "Yesterday",
+      "userId": 1,
+      "like": 140,
+      "comment": 25
+    },
+    {
+      "id": 4,
+      "desc": "Enjoying a peaceful sunset 🌅 after a productive day!",
+      "photo": "https://images.unsplash.com/photo-1501973801540-537f08ccae7b?crop=entropy&cs=tinysrgb&fit=crop&w=800&h=600",
+      "date": "2 days ago",
+      "userId": 1,
+      "like": 70,
+      "comment": 6
+    },
+    {
+      "id": 5,
+      "desc": "Life is a journey. Keep walking, keep believing ✨",
+      "photo": "https://scontent.fccu19-1.fna.fbcdn.net/v/t39.30808-6/481973627_1755241055059449_9210416076097716236_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=z0lYr0iG3FMQ7kNvwGko9b5&_nc_oc=AdnZ7c1T1eI7Dt4TPLm5jBsaJceJ6iteC-2EguxEil6211Jcey_daqzu3Jam669ip8I&_nc_zt=23&_nc_ht=scontent.fccu19-1.fna&_nc_gid=xmKzRacJnUufhLkrAXfpiQ&oh=00_AfFVHfnKbksuLmk6bqUhKbTxpxiOYo1hUDwTh2uwnzHs_g&oe=6813B1F0",
+      "date": "3 days ago",
+      "userId": 1,
+      "like": 210,
+      "comment": 40
+    },
+    {
+      "id": 6,
+      "desc": "New beginnings every morning 🌄 Thank you Krishna!",
+      "photo": "https://scontent.fccu19-1.fna.fbcdn.net/v/t39.30808-6/482225555_1755223885061166_3949531638899170925_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=FW1ITtstEGkQ7kNvwGZ8jaF&_nc_oc=Adn5tl3T4AZm8AM3H1KT_TRdXQYyDNjeo_uSdChVKYTYFSfJSeoUhQcCjSGhmoMJX10&_nc_zt=23&_nc_ht=scontent.fccu19-1.fna&_nc_gid=R1hQMqhQ-dM6SA6N9ar4TQ&oh=00_AfEzeLcMo1_ORkK3uOVN9GOC3gn4o-g2suh2zHS2-enjTQ&oe=6813A6FE",
+      "date": "4 days ago",
+      "userId": 1,
+      "like": 75,
+      "comment": 10
+    },
+    {
+      "id": 7,
+      "desc": "Meditation and peace ☮️, finding my center.",
+      "photo": "https://scontent.fccu19-1.fna.fbcdn.net/v/t39.30808-6/480456815_1738642273385994_2199400459665883383_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9Ux_a8tw0okQ7kNvwF1W00j&_nc_oc=AdmYk1tORtWGAcbGVuC5wQ0MWRUa6m616Degl9dK1dOnEnfqPGnT0ky30tufo1YIjOY&_nc_zt=23&_nc_ht=scontent.fccu19-1.fna&_nc_gid=elXvJ2RCbJlOC5ZAwJ_K5w&oh=00_AfHO0Pr29ZxENstwF1R80AEka4J2JDe8DYghanxwP-2M9g&oe=6813B954",
+      "date": "5 days ago",
+      "userId": 1,
+      "like": 60,
+      "comment": 5
+    },
+    {
+      "id": 8,
+      "desc": "Exploring the beauty of simple things 🌾",
+      "photo": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=crop&w=800&h=600",
+      "date": "6 days ago",
+      "userId": 1,
+      "like": 100,
+      "comment": 12
+    },
+    {
+      "id": 9,
+      "desc": "A heart full of gratitude brings miracles 💫",
+      "photo": "https://scontent.fccu19-1.fna.fbcdn.net/v/t39.30808-6/481662759_1751239878792900_3554907990541295071_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0yp76nyMh3MQ7kNvwGCxexD&_nc_oc=AdlXl5ytJcn36NW85U729PAqtlnVHVGmT4AOWjbV-DhkP0OrIrBJX-bWF3gKS_qyGTw&_nc_zt=23&_nc_ht=scontent.fccu19-1.fna&_nc_gid=6X11fD93wia3vpWL9oREFQ&oh=00_AfFbaUVXAEXTO658YzKx70DcLQLV15XOXVBJY84mIuDf6g&oe=6813895E",
+      "date": "1 week ago",
+      "userId": 1,
+      "like": 130,
+      "comment": 18
+    },
+    {
+      "id": 10,
+      "desc": "Remembering: No matter what, trust Krishna’s plan 🛐✨",
+      "photo": "https://images.unsplash.com/photo-1484627147104-f5197bcd6651?crop=entropy&cs=tinysrgb&fit=crop&w=800&h=600",
+      "date": "1 week ago",
+      "userId": 1,
+      "like": 250,
+      "comment": 50
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+.feedWrapper {
+  padding: 20px;
+}
+
+/* ///loader  */
+.loader {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0.5;
+  }
+}
