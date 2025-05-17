@@ -1,0 +1,43 @@
+.homeContainer {
+  display: flex;
+}
+
+/* Desktop View */
+@media screen and (min-width: 768px) {
+  .homeContainer {
+    flex-direction: row;
+  }
+
+  .sidebar {
+    display: block;
+    width: 250px;
+  }
+
+  .feed {
+    flex: 1;
+  }
+
+  .rightbar {
+    display: block;
+    width: 300px;
+  }
+}
+
+/* Mobile View */
+@media screen and (max-width: 767px) {
+  .homeContainer {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .feed {
+    width: 100%;
+  }
+
+  .rightbar {
+    display: none;
+  }
+}
