@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/home/Home";
-import Profile from "./Pages/profile/Profile";
 import Topbar from "./components/topbar/Topbar";
+import Profile from "./Pages/Profile/Profile";
 
 function App() {
   return (
